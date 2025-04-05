@@ -15,6 +15,7 @@
 
 ## Mirrors:
 - https://github.com/AntinomyCollective
-- https://gitlab.com/antinomycollective
+- https://gitlab.com/AntinomyCollective
 - https://codeberg.org/AntinomyCollective
 - https://bitbucket.org/AntinomyCollective
+- https://git.epicm.org/AntinomyCollective
