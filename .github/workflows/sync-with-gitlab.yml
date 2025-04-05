@@ -16,6 +16,7 @@ jobs:
       matrix:
         repo:
           - {github: "https://github.com/AntinomyCollective/.github.git", gitlab: "git@gitlab.com:AntinomyCollective/dot-github.git"}
+          - {github: "https://github.com/AntinomyCollective/Retime-Phoneme-Util-GUI.git", gitlab: "git@gitlab.com:AntinomyCollective/Retime-Phoneme-Util-GUI.git"}
 
     steps:
       - name: Set up SSH key
