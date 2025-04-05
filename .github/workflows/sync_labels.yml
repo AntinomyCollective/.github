@@ -23,4 +23,4 @@ jobs:
           repository: |
             ${{ inputs.repo }}
 
-          token: ${{ secrets.EPICMORG_LABELS_PAT }}
+          token: ${{ secrets.AC_LABELS_PAT }}
