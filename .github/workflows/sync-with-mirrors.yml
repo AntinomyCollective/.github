@@ -18,7 +18,7 @@ jobs:
 #         - {github: "",  bitbucket: "", codeberg: "",  gitlab: "" }
           - {github: "https://github.com/AntinomyCollective/.github.git", bitbucket: "git@bitbucket.org:antinomycollective/.github.git", codeberg: "git@codeberg.org:AntinomyCollective/.github.git", gitlab: "git@gitlab.com:AntinomyCollective/dot-github.git"}
           - {github: "https://github.com/AntinomyCollective/Retime-Phoneme-Util-GUI.git", bitbucket: "git@bitbucket.org:antinomycollective/retime-phoneme-util-gui.git", codeberg: "git@codeberg.org:AntinomyCollective/Retime-Phoneme-Util-GUI.git",  gitlab: "git@gitlab.com:AntinomyCollective/Retime-Phoneme-Util-GUI.git"}
-
+          - {github: "https://github.com/AntinomyCollective/kl.vk.bot.git",  bitbucket: "git@bitbucket.org:antinomycollective/kl.vk.bot.git", codeberg: "git@codeberg.org:AntinomyCollective/kl.vk.bot.git",  gitlab: "git@gitlab.com:antinomycollective/kl-vk-bot.git" }
     steps:
       - name: Set up SSH key
         env:
